@@ -1,0 +1,33 @@
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+INSERT user (balance) VALUE (1000000);
+
+
+INSERT product (price, total) VALUE (765, 10000000);
